@@ -1,0 +1,1 @@
+Proxy theo em tìm hiểu thì có các loại proxy là: Catching, Protection, Remote, Virtual và Smart. Chi tiết về cách vận hành của từng cái thì em có tạo từng file README.md cho từng cái í ạ.
